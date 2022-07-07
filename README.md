@@ -31,3 +31,15 @@
 * 3D Scatter Plot
 
 ###### Data Set: https://www.kaggle.com/datasets/mylesoneill/world-university-rankings
+
+## RARE VISUALIZATION TOOLS
+
+* Matrix and Box Plots (Missingno)
+    * pip install missingno
+* Parallel Plots (Pandas)
+* Network Charts (Networkx)
+* Donut (Matplotlib)
+* Venn (Matplotlib)
+    * pip install matplotlib-venn
+* Spider Chart (Matplotlib)
+* Cluster Map (Seaborn)
