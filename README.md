@@ -15,6 +15,8 @@
 * Pair Plot
 * Count Plot
 
+###### Data Set: https://www.kaggle.com/datasets/kwullum/fatal-police-shootings-in-the-us
+
 ## PLOTLY
 
 * Line Plot
@@ -27,3 +29,5 @@
 * Scatter Matrix Plots
 * Inset Plots
 * 3D Scatter Plot
+
+###### Data Set: https://www.kaggle.com/datasets/mylesoneill/world-university-rankings
